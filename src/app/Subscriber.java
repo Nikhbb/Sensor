@@ -1,8 +1,6 @@
 package app;
 
-import java.util.List;
-
-public class Subscriber implements Observer{
+public class Subscriber implements Observer {
     String name;
 
     public Subscriber(String name) {
